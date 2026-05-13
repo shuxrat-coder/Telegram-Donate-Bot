@@ -10,8 +10,7 @@
 
   <br />
 
-  <!-- Asosiy rasm (Skrinshot) -->
-  <img src="./image_3c1792.jpg" alt="Zevn TopUp Interface" width="350" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
+  <img width="376" height="808" alt="image" src="https://github.com/user-attachments/assets/6728354d-18a4-4250-8adc-21ef43430458" />
 
   <br />
   <br />
