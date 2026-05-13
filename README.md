@@ -33,7 +33,7 @@
   <br />
   <br />
 
-  <h3>📞 Contact for Orders & Info:</h3>
+  <h3>📞 Contact for Orders:</h3>
   <p>
     <a href="https://t.me/premium250" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
