@@ -42,6 +42,6 @@
   <img 
     src="https://github.com/user-attachments/assets/6728354d-18a4-4250-8adc-21ef43430458" 
     alt="Zevn TopUp Preview" 
-    style="width: 50%; max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: 0 auto; display: block;" 
+    style="width: 30%; max-width: 100px; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: 0 auto; display: block;" 
   />
 </div>
